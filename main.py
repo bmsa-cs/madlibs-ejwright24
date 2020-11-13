@@ -19,7 +19,7 @@ temperature2 = input("Number: ")
 noun1 = input("Noun: ")
 noun2 = input("Type of liquid: ")
 adjective2 = input("Adjective: ")
-activity1 = input("Adjective (action): ")
+activity1 = input("Verb (NOT ending in ing): ")
 place1 = input("Place: ")
 
 print("\nHello " + name + ",\n"+ "Thank you for agreeing to watch our " + animals + "." + " We wanted to leave you some\ninstructions on what to do/not do for our precious babies.\n")
